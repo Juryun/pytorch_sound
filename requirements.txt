@@ -1,6 +1,4 @@
 numpy
-torch==1.7.0
-torchaudio==0.7.0
 librosa==0.8.0
 soundfile
 tensorboardX
